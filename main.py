@@ -2,7 +2,7 @@
 This project solves the weekly sudoku challenge from Tagesanzeiger.ch
 
 
-Author: Jonathan Vontobel (HSG Coder), Vasiliy, Peter
+Author: Jonathan Vontobel (15-604-853), Vasily Taran (20-624-987) and Péter Liszkai (20-624-730)
 """
 from selenium import webdriver
 from time import sleep

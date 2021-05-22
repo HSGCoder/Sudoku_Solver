@@ -1,0 +1,6 @@
+pynput==1.7.1
+selenium==3.141.0
+requests==2.25.0
+browser_cookie3==0.11.4
+Brotli==1.0.9
+browsermob_proxy==0.8.0

@@ -1,4 +1,4 @@
-# Sudokusolver
+# SUDOKU SOLVER
 This project solves the weekly sudoku challenge from www.tagesanzeiger.ch
 
 ## PROJECT DESCRIPTION
